@@ -1,3 +1,1 @@
-nome =  " Beatriz"
-
-print("Olá, Sr(a)" + nome )
+print("Olá, teste" )
